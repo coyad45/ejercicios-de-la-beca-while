@@ -1,0 +1,12 @@
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.exe
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.deps.json
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.json
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.runtimeconfig.dev.json
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\bin\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfoInputs.cache
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.AssemblyInfo.cs
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.dll
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.pdb
+C:\Users\coyad\source\repos\solucionWhile\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio8.genruntimeconfig.cache

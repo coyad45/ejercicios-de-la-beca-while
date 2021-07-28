@@ -1,0 +1,13 @@
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\bin\Debug\netcoreapp3.1\ejerciciosWhile.exe
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\bin\Debug\netcoreapp3.1\ejerciciosWhile.deps.json
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\bin\Debug\netcoreapp3.1\ejerciciosWhile.runtimeconfig.json
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\bin\Debug\netcoreapp3.1\ejerciciosWhile.runtimeconfig.dev.json
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\bin\Debug\netcoreapp3.1\ejerciciosWhile.dll
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\bin\Debug\netcoreapp3.1\ejerciciosWhile.pdb
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.csproj.AssemblyReference.cache
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.AssemblyInfoInputs.cache
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.AssemblyInfo.cs
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.dll
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.pdb
+C:\Users\coyad\source\repos\solucionWhile\ejerciciosWhile\obj\Debug\netcoreapp3.1\ejerciciosWhile.genruntimeconfig.cache
